@@ -26,6 +26,6 @@
   <img align="center" alt="Microsoft-Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div><br/>
 
- #### Apaixonado por Tecnologia, trabalahar com desenvolvimento de aplicações e micro serviços, fazer a manutenção nas aplicações, com correção de bugs ou até mesmo atualizações de versoẽs de melhorias. Conhecendo e apto para dominar sempre novas tecnologias!!!! 
+ #### Apaixonado por Tecnologia, trabalhar com desenvolvimento de aplicações e micro serviços, fazer a manutenção nas aplicações, com correção de bugs ou até mesmo atualizações de versoẽs de melhorias. Conhecendo e apto para dominar sempre novas tecnologias!!!! 
 
 
